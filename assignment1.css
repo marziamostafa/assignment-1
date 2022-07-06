@@ -1,0 +1,184 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+.background {
+    height: 700px;
+    width: 100%;
+    background-image: url(images/flood.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.background h1 {
+    font-size: 60px;
+    font-weight: bolder;
+    color: rgb(35, 196, 202);
+}
+
+.background p {
+    color: white;
+}
+
+.align {
+    text-align: center;
+    color: white;
+    padding: 100px 250px;
+}
+
+.go-to-link {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.donation {
+    text-align: center;
+    padding-bottom: 30px;
+    margin: 20px;
+    height: 100%;
+
+}
+
+.doation-main-div {
+    text-align: center;
+}
+
+.quantity {
+    display: flex;
+
+    text-align: center;
+    margin-left: 160px;
+    padding: 5px;
+    padding-left: 80px;
+
+}
+
+.donation h1 {
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+.doation-main-div {
+    text-align: center;
+
+}
+
+.amount {
+    padding: 30px 20px;
+
+    color: grey;
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center;
+    margin: 20px;
+    background-color: rgba(154, 154, 154, 0.103);
+
+}
+
+#highlight {
+    color: tomato;
+    border: 3px solid tomato;
+    padding: 30px 20px;
+    border-radius: 5px;
+}
+
+.border-line {
+    margin-bottom: 50px;
+    border-bottom: 2px solid rgba(128, 128, 128, 0.398);
+    margin-left: 320px;
+    margin-right: 300px;
+
+}
+
+.give-input {
+    border: none;
+    font-size: 20px;
+    color: rgba(128, 128, 128, 0.398);
+    padding-left: 50px;
+
+}
+
+.donate-plan {
+    text-align: center;
+    margin: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+.plan h1 {
+    font-size: 40px;
+}
+
+.plan p {
+
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+
+.plan-section {
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px 100px;
+
+}
+
+#food {
+    background-color: rgba(123, 158, 171, 0.171);
+    padding: 30px 20px;
+    text-align: justify;
+    margin: 10px;
+    border-radius: 2%;
+
+
+}
+
+
+
+
+#shelter {
+    text-align: justify;
+    margin: 10px;
+    padding: 30px 20px;
+    border-radius: 2%;
+    background-color: rgba(237, 195, 181, 0.321);
+
+
+
+}
+
+#education {
+    text-align: justify;
+    margin: 10px;
+    background-color: rgba(252, 207, 151, 0.445);
+    border-radius: 2%;
+    padding: 30px 20px;
+
+
+}
+
+.fianl-section {
+    text-align: center;
+}
+
+#contact {
+    background-color: bisque;
+    margin: 20px 300px;
+    padding: 50px 80px;
+    font-size: 40px;
+}
+
+#email-input {
+    background-color: rgba(62, 61, 61, 0.172);
+}
