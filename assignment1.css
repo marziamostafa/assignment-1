@@ -116,7 +116,7 @@ body {
     font-size: 40px;
 }
 
-.plan p {
+.para {
 
     text-align: center;
     margin-left: 150px;
@@ -168,17 +168,95 @@ body {
 
 }
 
+.help {
+    margin: 100px;
+    text-align: center;
+
+}
+
+.volunteer {
+    display: flex;
+    width: 50%;
+    margin: 100px;
+    padding-left: 250px;
+}
+
+#link-help {
+    margin-right: 50px;
+}
+
+#work {
+    margin-right: 50px;
+
+}
+
+.help-people {
+    font-size: 50px;
+}
+
 .fianl-section {
+    margin: 100px;
+}
+
+.filnal-box {
     text-align: center;
 }
 
-#contact {
-    background-color: bisque;
-    margin: 20px 300px;
-    padding: 50px 80px;
+.fianl-section h1 {
     font-size: 40px;
 }
 
+
+#contact {
+    text-align: center;
+    padding: 70px 60px;
+    width: 50%;
+    margin-left: 250px;
+    background-color: rgba(247, 216, 179, 0.727);
+    display: flex;
+
+}
+
+.mail-box {
+    border: none;
+    font-size: 20px;
+    padding: 8px 35px;
+
+
+}
+
 #email-input {
-    background-color: rgba(62, 61, 61, 0.172);
+    background-color: rgba(71, 70, 70, 0.211);
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    margin-left: 50px;
+}
+
+#button {
+    background-color: tomato;
+    color: white;
+
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    text-decoration: none;
+
+}
+
+.foot {
+    background-color: #06070de0;
+    height: 150px;
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    border: 2px solid gray;
+}
+
+.foot p {
+    font-size: 15px;
+}
+
+#design {
+    font-size: 40px;
+    color: tomato;
+    font-family: Arial, Helvetica, sans-serif;
 }
